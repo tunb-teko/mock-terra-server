@@ -1,0 +1,13 @@
+[
+  {
+    "name": "React Native app",
+    "description": "Native app demo for React native",
+    "code": "react-native-app-demo-1",
+    "platformCode": "react_native",
+    "version": "0.0.1",
+    "manifest": {
+      "data": null,
+      "extra": {}
+    }
+  }
+]

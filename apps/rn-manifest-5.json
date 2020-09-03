@@ -1,0 +1,31 @@
+{
+  "name": "React Native app",
+  "description": "Native app demo for React native",
+  "code": "react-native-app-demo-1",
+  "platformCode": "react_native",
+  "version": "0.5.1",
+  "manifest": {
+    "data": {
+      "@type": "type.googleapis.com/terra.v1.ReactNativeData",
+      "assets": [
+        {
+          "id": "0",
+          "checksum": "images_reactnativeapp.png",
+          "name": "drawable-mdpi/images_reactnativeapp.png"
+        },
+        {
+          "id": "1",
+          "checksum": "reactnative.png",
+          "name": "drawable-mdpi/reactnative.png"
+        },
+        {
+          "id": "2",
+          "checksum": "bundle5",
+          "name": "main.jsbundle"
+        }
+      ],
+      "iamAudience": "tripi-flight:1b14898e-4de6-4bde-a986-1eac5f7ae37b"
+    },
+    "extra": {}
+  }
+}

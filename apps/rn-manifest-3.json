@@ -1,0 +1,56 @@
+{
+  "name": "React Native app",
+  "description": "Native app demo for React native",
+  "code": "react-native-app-demo-1",
+  "platformCode": "react_native",
+  "version": "0.3.1",
+  "manifest": {
+    "data": {
+      "@type": "type.googleapis.com/terra.v1.ReactNativeData",
+      "assets": [
+        {
+          "id": "0",
+          "checksum": "drawable-mdpi/assets_img_background.png",
+          "name": "drawable-mdpi/assets_img_background.png"
+        },
+        {
+          "id": "1",
+          "checksum": "drawable-mdpi/assets_img_bird1.png",
+          "name": "drawable-mdpi/assets_img_bird1.png"
+        },
+        {
+          "id": "2",
+          "checksum": "drawable-mdpi/assets_img_bird2.png",
+          "name": "drawable-mdpi/assets_img_bird2.png"
+        },
+        {
+          "id": "3",
+          "checksum": "drawable-mdpi/assets_img_bird3.png",
+          "name": "drawable-mdpi/assets_img_bird3.png"
+        },
+        {
+          "id": "4",
+          "checksum": "drawable-mdpi/assets_img_floor.png",
+          "name": "drawable-mdpi/assets_img_floor.png"
+        },
+        {
+          "id": "5",
+          "checksum": "drawable-mdpi/assets_img_pipe_core.png",
+          "name": "drawable-mdpi/assets_img_pipe_core.png"
+        },
+        {
+          "id": "6",
+          "checksum": "drawable-mdpi/assets_img_pipe_top.png",
+          "name": "drawable-mdpi/assets_img_pipe_top.png"
+        },
+        {
+          "id": "7",
+          "checksum": "main.jsbundle",
+          "name": "main.jsbundle"
+        }
+      ],
+      "iamAudience": "tripi-flight:1b14898e-4de6-4bde-a986-1eac5f7ae37b"
+    },
+    "extra": {}
+  }
+}
